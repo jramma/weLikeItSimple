@@ -9,9 +9,9 @@ module.exports = {
         white: "#fff",
 
         gray: {
-          100: "#fff",
-          200: "#fff",
-          300: "#fff",
+          100: "#f6f6f6",
+          200: "#888888",
+          300: "#3c3c3c",
         },
       },
       container: {
@@ -27,8 +27,8 @@ module.exports = {
       },
       fontSize: {
         base: ["16px", "24px"],
-        lg: ["18px", "24px"],
-        xl: ["20px", "26px"],
+        lg: ["20px", "30px"],
+        xl: ["32px", "38px"],
         "2xl": ["22px", { letterSpacing: "-0.4px", lineHeight: 1.25 }],
       },
     },

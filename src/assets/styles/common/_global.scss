@@ -3,17 +3,15 @@ $gray-100: #f6f6f6;
 $gray-200: #888888;
 $gray-300: #3c3c3c;
 
-body {
-  @apply relative w-full antialiased;
-  font-family: 'Gilroy';
-  font-style: normal;
-  color: $black;
+@mixin selection {
+  color: white;
+  background: black;
 }
 
 ::-moz-selection {
-  @apply text-white bg-black;
+  @include selection;
 }
 
 ::selection {
-  @apply text-white bg-black;
+  @include selection;
 }
