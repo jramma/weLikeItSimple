@@ -46,3 +46,5 @@ Always run the following commands during the development stage and for productio
 | `npm run clean` | Deletes the current `/dist` folder and cache folders.                                                                                                                                                                                                                                                                                                               |
 | `npm run test`  | Displays a success message if everything is working as expected.                                                                                                                                                                                                                                                                                                    |
 # weLikeItSimple
+# weLikeItSimple
+# weLikeItSimple
