@@ -1,6 +1,4 @@
 # Pepe Ramos
 
 
-jramma.com
-
-# weLikeItSimple
+www.jramma.com
